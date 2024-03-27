@@ -1,0 +1,14 @@
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/bin/Debug/net8.0/WorkingWithObjects
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/bin/Debug/net8.0/WorkingWithObjects.deps.json
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/bin/Debug/net8.0/WorkingWithObjects.runtimeconfig.json
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/bin/Debug/net8.0/WorkingWithObjects.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/bin/Debug/net8.0/WorkingWithObjects.pdb
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.AssemblyInfoInputs.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.AssemblyInfo.cs
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.csproj.CoreCompileInputs.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/refint/WorkingWithObjects.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.pdb
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/WorkingWithObjects.genruntimeconfig.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.2/WorkingWithObjects/obj/Debug/net8.0/ref/WorkingWithObjects.dll
